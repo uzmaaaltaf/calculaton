@@ -1,1 +1,1 @@
-console.log("master");
+console.log("divide-multiply");
